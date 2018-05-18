@@ -23,3 +23,7 @@ bundle analyzer tools:
 [webpack-visualizer-plugin](https://www.npmjs.com/package/webpack-visualizer-plugin)
 (Note: [just for dist bundle file analyse](https://github.com/th0r/webpack-bundle-analyzer/issues/86))
 
+前端项目bj_web          react + antd mobile   
+移动项目 2个 bj_android bj_ios      
+后台服务项目一个   bj_server springboot srping-data-jpa
+管理系统一个      springmvc/bootstrap 
